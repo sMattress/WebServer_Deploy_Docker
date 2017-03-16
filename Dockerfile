@@ -11,4 +11,4 @@ RUN mkdir /usr/local/tomcat/keys
 ADD build-resources/certificate.crt /usr/local/tomcat/keys
 ADD build-resources/private.key /usr/local/tomcat/keys
 
-RUN "Asia/Shanghai" > /etc/timezone
+RUN echo "Asia/Shanghai" > /etc/timezone
