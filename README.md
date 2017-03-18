@@ -1,4 +1,4 @@
-# Web服务器Docker构建文件及相关资源。
+# Web服务器Docker构建文件及相关资源
 
 ## resources
 
