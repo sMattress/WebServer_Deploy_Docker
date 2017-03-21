@@ -1,4 +1,5 @@
 FROM tomcat:8-jre8
+MAINTAINER zhang.fly@hotmail.com
 
 RUN rm -rf /usr/local/tomcat/webapps
 ADD project /usr/local/tomcat/webapps
