@@ -1,13 +1,4 @@
-# 文件说明
 # Web服务器Docker构建文件及相关资源
-
-<<<<<<< HEAD
-- build-resources：构建时候需要的资源 
-- webapp: 应用代码，编译后的文件 
-- push到release 会促发自动部署  
-- 尝试webhook: GitHub -> AliYun -> MyServer- 尝试webhook: GitHub -> AliYun -> MyServer
-=======
-## resources
 
 构建时需要的资源：
 
@@ -23,4 +14,3 @@
 ## Dockerfile
 
 用于在`DockerHub-阿里云镜像`构建Docker镜像。
->>>>>>> master
