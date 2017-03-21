@@ -134,7 +134,7 @@
         <Valve className="org.apache.catalina.valves.AccessLogValve" directory="logs"
                prefix="localhost_access_log" suffix=".txt"
                pattern="%h %l %u %t &quot;%r&quot; %s %b" />
-        <Context path="" docBase="/usr/local/tomcat/webapps/IntelligentMattress" reloadable="false"/>
+        <Context path="" docBase="/usr/local/tomcat/webapps/sMattress" reloadable="false"/>
       </Host>
     </Engine>
   </Service>
