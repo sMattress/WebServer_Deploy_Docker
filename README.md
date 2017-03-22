@@ -13,4 +13,4 @@
 
 ## Dockerfile
 
-用于在`DockerHub-阿里云镜像`构建Docker镜像。
+用于在`DockerHub-阿里云镜像`构建Docker镜像，阿里好想也有点不上心啊，经常不稳定。
